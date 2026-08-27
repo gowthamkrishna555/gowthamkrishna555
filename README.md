@@ -1,6 +1,6 @@
 # Gowtham Krishna
 
-## Software Engineer
+## Junior Software Engineer
 
 Software Engineer with 1.7 years of professional experience building full-stack applications, Python APIs, forecasting systems, and AI-assisted data products. Experienced with TypeScript, Next.js, React, Python, FastAPI, PostgreSQL, and vector search.
 
