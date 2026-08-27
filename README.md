@@ -1,88 +1,85 @@
-# 🛠️ Gowtham Krishna's Portfolio
+# Hi, I'm Gowtham Krishna 👋
 
-Welcome to my portfolio! Here you'll find a selection of my projects, demonstrating my skills and experience in various areas of software development.
+### Software Engineer | Full-Stack Developer | AI & Data Applications
 
-## 🗂️ Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-  - [Mapping and Transformation Analysis of Water Bodies](#mapping-and-transformation-analysis-of-water-bodies-using-deep-learning-for-coastal-regions-of-karnataka)
-  - [Ground Water Analysis](#ground-water-analysis)
-  - [NGO Management Application](#ngo-management-application)
-  - [Agriculture Database Management System](#agriculture-database-management-system)
-  - [Predicting Heart Disease from Clinical Data](#predicting-heart-disease-from-clinical-data-using-machine-learning)
-- [Skills](#skills)
-- [Contact](#contact)
+I'm a Computer Science Engineer with **1.7 years of professional experience** in software development. I build full-stack applications and AI-powered data products using **TypeScript, Next.js, React, Python, FastAPI, and PostgreSQL**.
 
-## 🙋 About Me
-Hello! I'm Gowtham Krishna, an enthusiastic and dedicated Computer Science Engineer with a focus on Data Science. I have a proven ability in handling diverse projects involving machine learning, data analysis, and software development. I possess strong technical skills in Python, Java, and C Programming, with excellent problem-solving and teamwork capabilities. I'm passionate about leveraging technology to address real-world challenges.
+I enjoy solving real-world problems, learning how systems work under the hood, and turning ideas into reliable software.
 
-## 🖥️ Projects
+## 👨‍💻 About Me
 
-### Mapping and Transformation Analysis of Water Bodies using Deep Learning for Coastal Regions of Karnataka
-**Duration**: January 2024 - May 2024
+- 💼 Software Engineer with 1.7 years of industry experience
+- 🌐 Experienced in building modern web applications with TypeScript, React, and Next.js
+- 🐍 Building Python APIs, forecasting pipelines, and AI-assisted data workflows
+- 🤖 Hands-on experience with LLM integration, document extraction, vector search, and data assistants
+- 🧠 Interested in full-stack development, scalable applications, and software engineering fundamentals
+- 🤝 Open to collaborating on web, Python, AI, data, and open-source projects
 
-**Description**: Executed a groundbreaking project focused on combating water scarcity in coastal regions by employing deep learning methodologies to automate the identification and delineation of water bodies from satellite imagery.
+## 🛠️ Technical Skills
 
-**Technologies**: Python, Deep Learning
+**Languages:** TypeScript, JavaScript, Python, SQL, Java, C  
+**Frontend:** React, Next.js, Material UI, HTML5, CSS3, TanStack Query  
+**Backend:** FastAPI, Node.js, Next.js APIs, REST APIs  
+**AI & Data:** OpenAI API, Retrieval-Augmented Generation, Pandas, NumPy, Scikit-learn, Statsmodels, Plotly  
+**Databases:** PostgreSQL, pgvector, Prisma, MySQL, Firebase  
+**Tools & Platforms:** Git, Docker, Nx, Vercel, Jupyter Notebook, VS Code
 
-**Highlights**:
-- Addressed critical environmental challenges such as rising sea levels and shifting shorelines.
-- Provided precise mapping solutions essential for informed decision-making and sustainable water resource management.
+## 🚀 Professional Projects & Contributions
 
----
+### 🥜 Peanut Exchange — AI-Powered Market Intelligence Platform
 
-### Ground Water Analysis
-**Duration**: January 2024
+Contributed to a full-stack platform that transforms agricultural market data and industry reports into forecasts, interactive charts, and AI-assisted insights for the peanut industry.
 
-**Description**: Analyzed ground water data for the region of Karnataka based on various parameters like water level, chlorine, and more.
+- Developed and maintained features in a Next.js and TypeScript application
+- Built AI-assisted newsletter search using extracted report content, embeddings, and PostgreSQL/pgvector
+- Improved chart explanations, release metadata, stock-to-use visualizations, and dynamic presentation generation
+- Integrated Firebase authentication, backend APIs, and market-data workflows
+- Diagnosed production data, API, caching, and deployment issues
 
-**Technologies**: Python, Streamlit
+**Tech:** Next.js, React, TypeScript, Material UI, Python, OpenAI API, PostgreSQL, pgvector, Firebase, Vercel
 
-**Highlights**:
-- Visualized ground water analysis to aid in understanding and decision-making.
+### 📈 Crop Price Prediction & Market Data Assistant
 
----
+Worked on a production-oriented forecasting backend for peanut and almond markets, combining statistical models, agricultural datasets, published reports, and an AI market-data assistant.
 
-### NGO Management Application
-**Duration**: June 2023
+- Developed and maintained FastAPI endpoints for forecasts and assistant queries
+- Integrated farmer stock prices and aligned time-series datasets for model training and evaluation
+- Built PDF and email report extraction workflows using Python and the OpenAI API
+- Added vector-search and PostgreSQL-backed retrieval for market intelligence
+- Worked with VAR forecasting, model artifacts, evaluation pipelines, Docker, and automated tests
 
-**Description**: Developed an Android application for NGO management. The organization can post events, and users can view event details, acting as a bridge between the NGO and the users.
+**Tech:** Python, FastAPI, Pandas, NumPy, Statsmodels, Scikit-learn, OpenAI API, PostgreSQL, pgvector, Docker
 
-**Technologies**: XML, Java, Android Studio, Firebase
+### 🎓 ALeA — Interactive Digital Learning Platform
 
-**Highlights**:
-- Enabled effective communication between NGOs and potential volunteers or participants.
+Contributed to an open-source education platform for rendering and interacting with formal learning content and sTeX documents.
 
----
+- Improved the React video-player experience, including lifecycle handling and keyboard controls
+- Worked on PDF and QR-based cheatsheet extraction, merging, and download workflows
+- Added role-aware controls for instructor-only functionality
+- Investigated and resolved frontend display, API route, and document-layout issues
+- Worked within a large Nx monorepo containing reusable React and TypeScript packages
 
-### Agriculture Database Management System
-**Duration**: January 2023 - February 2023
+**Tech:** Next.js, React, TypeScript, Nx, Material UI, Prisma, PDF.js, Video.js, OpenAI API
 
-**Description**: Developed and implemented a database management system enabling farmers to list available produce and facilitating direct buyer-farmer communication, streamlining transactions, and enhancing market efficiency.
+### 🏥 Navajeevana Hospital Website
 
-**Technologies**: HTML5, CSS3, PHP, MySQL, Microsoft Visual Studio Code, XAMPP
+Built a modern, patient-facing hospital website with a responsive component-based interface and a maintainable application structure.
 
-**Highlights**:
-- Improved market efficiency by connecting farmers directly with buyers.
+- Developed with the Next.js App Router, React, and TypeScript
+- Created a reusable Material UI theme and shared application providers
+- Integrated TanStack Query for structured server-state management
+- Organized the project for production builds, linting, and future API integration
 
----
+**Tech:** Next.js, React, TypeScript, Material UI, TanStack Query
 
-### Predicting Heart Disease from Clinical Data using Machine Learning
-**Duration**: April 2023
+## 🎯 What I'm Working Toward
 
-**Description**: Developed a predictive model to detect heart diseases by leveraging machine learning and Python programming. The project involved data processing, cleaning, building predictive algorithms, and evaluating the model’s performance.
+- Building production-ready full-stack applications
+- Writing clean, maintainable, and well-tested code
+- Strengthening backend development and system-design skills
+- Contributing to meaningful open-source projects
 
-**Technologies**: Python, Pandas, NumPy, Matplotlib, Scikit Learn, Google Colab
-
-**Highlights**:
-- Utilized various evaluation metrics including Accuracy, Precision, Recall, F1-score, and ROC curve to assess model performance.
-
-## 💡 Skills
-- **Programming Languages**: Python, Java, C Programming
-- **Frameworks & Libraries**: TensorFlow, Keras, OpenCV, Flask, Streamlit
-- **Tools**: Git, Docker, Jupyter Notebooks, Android Studio, Firebase, Microsoft Visual Studio Code, XAMPP
-- **Data Processing**: Pandas, NumPy, Regular Expressions, Data Visualization
-- **Languages**: English
 
 ## 📫 Contact
 Feel free to reach out if you have any questions or would like to collaborate!
