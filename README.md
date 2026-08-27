@@ -12,7 +12,7 @@ I enjoy solving real-world problems, learning how systems work under the hood, a
 - 🌐 Experienced in building modern web applications with TypeScript, React, and Next.js
 - 🐍 Building Python APIs, forecasting pipelines, and AI-assisted data workflows
 - 🤖 Hands-on experience with LLM integration, document extraction, vector search, and data assistants
-- 🧠 Interested in full-stack development, scalable applications, and software engineering fundamentals
+- 🧠 Interested in data analytics, scalable applications, and software engineering fundamentals
 - 🤝 Open to collaborating on web, Python, AI, data, and open-source projects
 
 ## 🛠️ Technical Skills
