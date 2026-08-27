@@ -82,7 +82,7 @@ Hello! I'm Gowtham Krishna, an enthusiastic and dedicated Computer Science Engin
 - **Frameworks & Libraries**: TensorFlow, Keras, OpenCV, Flask, Streamlit
 - **Tools**: Git, Docker, Jupyter Notebooks, Android Studio, Firebase, Microsoft Visual Studio Code, XAMPP
 - **Data Processing**: Pandas, NumPy, Regular Expressions, Data Visualization
-- **Languages**: English, Japanese
+- **Languages**: English
 
 ## 📫 Contact
 Feel free to reach out if you have any questions or would like to collaborate!
